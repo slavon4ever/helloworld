@@ -1,0 +1,16 @@
+{
+  "name": "Hello-world",
+  "version": "0.0.1",
+  "main": "src",
+  "description": "Hello world",
+  "scripts": {
+    "start": "node src"
+  },
+  "dependencies": {
+    "express": "4.15.3",
+    "prom-client": "9.1.1",
+    "express-prom-bundle": "5.1.5"
+  },
+  "author": "Noname",
+  "license": "MIT"
+}
